@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/10/02 15:30:15.000.354,=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/10/04 11:41:27.000.370,=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/10/04 11:49:14.000.322,=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/10/04 11:50:57.000.455,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Calculadora\U_Calculadora.fmx</Transaction>
+    <Transaction>2017/10/04 11:50:57.000.455,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Calculadora\U_Calculadora.pas</Transaction>
+    <Transaction>2017/10/04 11:51:03.000.693,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Calculadora\Calculadora.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
